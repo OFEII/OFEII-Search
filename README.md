@@ -1,5 +1,5 @@
 # 🍳OFEII-Search
-## [OFEII Search](https://ofeii.github.io/demo/welfare)
+## [OFEII Search](https://ofeii.github.io/OFEII-Search/)
 ### 功能
 > 基于vue.js的搜索网站
 
